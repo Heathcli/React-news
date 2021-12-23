@@ -1,0 +1,1 @@
+export const loading = (data)=>({type:'change_loading',data})

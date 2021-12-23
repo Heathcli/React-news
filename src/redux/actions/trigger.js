@@ -1,0 +1,1 @@
+export const trigger = (data)=>({type:'trigger',data})

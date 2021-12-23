@@ -1,0 +1,19 @@
+.logo {
+    margin: 10px;
+    height: 32px;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(255,255,255,.3);
+    
+}
+.scrollbarFa {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+  }
+  .scrollbarCh {
+    flex: 1;
+    overflow: auto;
+  }
+
